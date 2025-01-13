@@ -1,4 +1,4 @@
-const { defineConfig } = require("@vue/cli-service");
-module.exports = defineConfig({
+module.exports = {
+  publicPath: '/Weather-App/', // تأكد من أن اسم المستودع صحيح
   transpileDependencies: true,
-});
+};
