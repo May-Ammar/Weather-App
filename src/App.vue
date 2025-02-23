@@ -128,7 +128,7 @@ export default {
 }
 
 .app.warm {
-  background-image: url("../src/assets/warm-bg.jpg");
+  background-image: url("https://images.app.goo.gl/UYRGDgiC9BJWvf9U7");
 }
 
 .main {
