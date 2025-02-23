@@ -121,7 +121,7 @@ export default {
 }
 
 .app {
-  background-image: url("../src/assets/cold-bg.jpg");
+  background-image: url("https://images.app.goo.gl/QDc741HuDqAHfq3B8");
   background-size: cover;
   background-position: bottom;
   transition: 0.4s;
