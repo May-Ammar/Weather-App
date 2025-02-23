@@ -1,4 +1,4 @@
 module.exports = {
-  publicPath: '/Weather-App/', // تأكد من أن اسم المستودع صحيح
+  publicPath: '/Weather-App/',
   transpileDependencies: true,
 };
