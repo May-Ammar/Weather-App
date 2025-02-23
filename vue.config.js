@@ -1,4 +1,4 @@
 module.exports = {
-  publicPath: '/Weather-App/',
+  publicPath: process.env.NODE_ENV === 'production' ? '/Weather-App/' : '/',
   transpileDependencies: true,
 };
